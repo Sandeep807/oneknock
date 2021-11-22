@@ -1,1 +1,1 @@
-web:gunicorn oneknock.wsgi
+web: gunicorn oneknock.wsgi
